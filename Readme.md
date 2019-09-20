@@ -9,4 +9,4 @@ Programma che traduce un file con estensione .asm, scritto nel linguaggio assemb
     
 * Nella cartella `/tests` sono presenti alcuni programmi che possono essere utilizzati per verificare la correttezza dell'assemblatore
 
-* Per eseguire il programma `./assembler path/filename.asm`
+* Per eseguire il programma utilizzare il comando `./assembler path/filename.asm`
